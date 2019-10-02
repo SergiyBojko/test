@@ -2,5 +2,7 @@ import aaaaaaaaaaaa
 import bbbbbbbbbbbb
 
 class Test {
-    asdasdasd
+    sdadasd
+    ddsadsadas
+    dfdsfsdfds
 }
